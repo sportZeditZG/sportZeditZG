@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sportZ_editZ-G | YouTuber & Editor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f8f8f8;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+
+        section {
+            margin-top: 20px;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+
+        .interests {
+            margin-top: 10px;
+        }
+
+        .comments {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .comment-form {
+            margin-top: 10px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>sportZ_editZ-G</h1>
+        <p>YouTuber & Editor</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <!-- Removed the text "I love creating engaging content and bringing ideas to life through the art of editing." -->
+        <p>Hello there! I'm sportZ_editZ-G, a passionate YouTuber and editor.</p>
+    </section>
+
+    <section class="interests">
+        <h2>I Love Football and Cricket Editing</h2>
+        <p>I have a strong passion for editing and enjoy the creative process of transforming raw footage into captivating videos. It's not just a job; it's a form of self-expression and storytelling for me.</p>
+    </section>
+
+    <section class="comments">
+        <h2>Ideas For Editing</h2>
+        <div class="comment-form">
+            <form action="#" method="post">
+                <label for="comment">Leave your idea:</label><br>
+                <textarea id="comment" name="comment" rows="4" cols="50" required></textarea><br>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+        <!-- Display existing comments here if any -->
+        <!-- You can add new comments as viewers start commenting -->
+    </section>
+
+    <footer>
+        <p>Contact me: <a href="mailto:sportzeditz009@gmail.com">sportzeditz009@gmail.com</a> | Follow me on <a href="https://youtube.com/sportZ_editZ-G" target="_blank">YouTube</a></p>
+    </footer>
+
+</body>
+
+</html>
